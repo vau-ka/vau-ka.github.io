@@ -1,1 +1,2 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Dies ist eine neue Homepage !
+Arnold Schwarzenegger begann seine Karriere als Bodybuilder
