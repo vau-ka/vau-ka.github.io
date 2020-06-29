@@ -1,9 +1,9 @@
 
 # Dies ist meine Landing-Page Versuch 2
-## Dies ist Header H2
+## Die ist eine H2 Überschirft 
 Arnold Schwarzenegger begann seine Karriere als Bodybuilder
 
-* Liebt Ballerspiele
-* Spricht Spanisch
-* Fährt Harley Davidson
-* Kommt aus der Zukunft
+* liebt spanisch
+* fährt Harley
+* mag Tequila
+* kommt aus der Zukunft
