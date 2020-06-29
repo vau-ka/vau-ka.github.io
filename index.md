@@ -7,3 +7,7 @@ Arnold Schwarzenegger begann seine Karriere als Bodybuilder
 * fährt Harley
 * mag Tequila
 * kommt aus der Zukunft
+
+As Arnold said:
+> Hasta la vista, baby.
+> I'll be back.
